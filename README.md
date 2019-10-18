@@ -4,7 +4,7 @@
 https://github.com/deco3500-2019/Team-Alpha_JC/wiki/Proposal
 
 ## Link to Final Report
-insert link here
+https://github.com/deco3500-2019/Team-Alpha_JC/wiki/Final-Report
 
 ## Link to Working Prototype, Promotional Material, and Documentation  
 
