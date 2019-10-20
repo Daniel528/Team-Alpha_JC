@@ -2,8 +2,8 @@
 ***
 ## Conference Poster
 ![Imgur](https://i.imgur.com/R4s1DUi.jpg)
-## Promotional material
-
+## Brochure
+![Imgur](https://i.imgur.com/r02JN2V.jpg)
 ## Link To Project Proposal
 https://github.com/deco3500-2019/Team-Alpha_JC/wiki/Proposal
 
