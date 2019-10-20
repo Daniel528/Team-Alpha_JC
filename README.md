@@ -7,8 +7,10 @@
 ## Link To Project Proposal
 https://github.com/deco3500-2019/Team-Alpha_JC/wiki/Proposal
 
-## Link to Final Report
+## Link to Process
 https://github.com/deco3500-2019/Team-Alpha_JC/wiki/Final-Report
+
+
 
 ## Link to Working Prototype, Promotional Material, and Documentation  
 
@@ -18,6 +20,6 @@ https://github.com/deco3500-2019/Team-Alpha_JC/wiki/Paper-prototype
 High fidelity prototype
 https://github.com/deco3500-2019/Team-Alpha_JC/wiki/High-Fidelity-Prototype
 
+## Summary
 
-
-Documentation
+## Contribution
