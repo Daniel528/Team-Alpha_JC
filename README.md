@@ -1,5 +1,6 @@
 # VisHome
 ***
+![Imgur](https://i.imgur.com/R4s1DUi.jpg)
 ## Link To Project Proposal
 https://github.com/deco3500-2019/Team-Alpha_JC/wiki/Proposal
 
