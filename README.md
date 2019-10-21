@@ -8,7 +8,7 @@
 https://github.com/deco3500-2019/Team-Alpha_JC/wiki/Proposal
 
 ## Link to Process
-https://github.com/deco3500-2019/Team-Alpha_JC/wiki/Final-Report
+https://github.com/deco3500-2019/Team-Alpha_JC/wiki
 
 
 
