@@ -2,8 +2,10 @@
 ***
 ## Conference Poster
 ![Imgur](https://i.imgur.com/R4s1DUi.jpg)
+
 ## Brochure
 ![Imgur](https://i.imgur.com/r02JN2V.jpg)
+
 ## Link To Project Proposal
 https://github.com/deco3500-2019/Team-Alpha_JC/wiki/Proposal
 
@@ -11,12 +13,9 @@ https://github.com/deco3500-2019/Team-Alpha_JC/wiki/Proposal
 https://github.com/deco3500-2019/Team-Alpha_JC/wiki
 
 
-
 ## Link to Working Prototype, Promotional Material, and Documentation  
+https://github.com/deco3500-2019/Team-Alpha_JC/wiki/Paper-prototype
 
-#Paper prototype
-##Desgin [https://github.com/deco3500-2019/Team-Alpha_JC/wiki/Paper-prototype]
-## Evaluation [https://github.com/deco3500-2019/Team-Alpha_JC/wiki/Evaluation---Paper-Prototype]
 
 High fidelity prototype
 https://github.com/deco3500-2019/Team-Alpha_JC/wiki/High-Fidelity-Prototype
