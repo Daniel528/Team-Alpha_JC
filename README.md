@@ -14,8 +14,9 @@ https://github.com/deco3500-2019/Team-Alpha_JC/wiki
 
 ## Link to Working Prototype, Promotional Material, and Documentation  
 
-Paper prototype
-https://github.com/deco3500-2019/Team-Alpha_JC/wiki/Paper-prototype
+#Paper prototype
+##Desgin [https://github.com/deco3500-2019/Team-Alpha_JC/wiki/Paper-prototype]
+## Evaluation [https://github.com/deco3500-2019/Team-Alpha_JC/wiki/Evaluation---Paper-Prototype]
 
 High fidelity prototype
 https://github.com/deco3500-2019/Team-Alpha_JC/wiki/High-Fidelity-Prototype
